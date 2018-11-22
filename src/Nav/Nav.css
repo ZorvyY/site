@@ -1,0 +1,24 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    display: block;
+    /* border: 1px solid black; */
+}
+
+nav li {
+    display: inline-block;
+    margin-right: -4px;
+    padding-right: 2em;
+}
+  
+.logo {
+    height: 3em;    
+}
+
+.social-container {
+    float: right;
+}
